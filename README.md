@@ -1,4 +1,17 @@
 ## Feature: Property Listing Feature
+A feature allowing users to list and manage properties, supporting various filters for efficient searching, with a user-friendly interface.
+
+***Stories***
+- [ ] [As a seller, I want to list a new property](https://github.com/rollymaduk/test-repo/issues/119)
+- [ ] [As a buyer, I want to filter properties](https://github.com/rollymaduk/test-repo/issues/120)
+- [ ] [As a user, I want to save favorite properties](https://github.com/rollymaduk/test-repo/issues/121)
+- [ ] [As an admin, I want to manage property listings](https://github.com/rollymaduk/test-repo/issues/122)
+- [ ] [As a guest, I want to browse properties](https://github.com/rollymaduk/test-repo/issues/123)
+
+
+
+
+## Feature: Property Listing Feature
 This feature allows users to view a list of properties. Key elements include property details, search filters, and sorting options.
 
 ***Stories***
