@@ -1,3 +1,13 @@
+## Feature: User Auto-Logout Feature
+This JSON object specifies the requirements for a feature to automatically log out users after a period of inactivity. The feature aims to enhance security by preventing unauthorized access to user sessions that may have been inadvertently left active.
+
+***Stories***
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/84)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/85)
+
+
+
+
 ## Feature: Notification System Update
 Enhancement of the notification system to enable mass messaging to all customers. The update should support various notification types, ensure user data protection, and provide analytics for engagement tracking.
 
