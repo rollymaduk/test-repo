@@ -1,3 +1,15 @@
+## Feature: Property Listing Feature
+This feature allows users to view a list of properties. Key elements include property details, search filters, and sorting options.
+
+***Stories***
+- [ ] [Story: View Property List](https://github.com/rollymaduk/test-repo/issues/113)
+- [ ] [Story: Filter Properties](https://github.com/rollymaduk/test-repo/issues/114)
+- [ ] [Story: Property Details](https://github.com/rollymaduk/test-repo/issues/115)
+- [ ] [Story: Sort Properties](https://github.com/rollymaduk/test-repo/issues/116)
+
+
+
+
 ## Feature: Email Notification Feature
 This feature enables the system to send emails to users who are part of a certain group. It's designed to notify users of relevant information or actions they need to take, improving communication and engagement.
 
