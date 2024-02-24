@@ -1,3 +1,15 @@
+## Feature: User Browsing Tracker
+A feature to monitor and analyze user browsing behavior on the app, enabling personalized content delivery and improved user experience.
+
+***Stories***
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/70)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/71)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/72)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/73)
+
+
+
+
 ## Feature: User Logout Tracking Feature
 This feature handles the detection and recording of user logout events. It ensures that user sessions are properly closed and that logout occurrences are logged for security and user behavior analytics.
 
