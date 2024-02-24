@@ -1,3 +1,15 @@
+## Feature: Property Listing Feature
+This feature enables users to view and manage a list of properties. Key considerations include sorting by various criteria, detailed views of each property, and integration with mapping services.
+
+***Stories***
+- [ ] [View Properties](https://github.com/rollymaduk/test-repo/issues/133)
+- [ ] [Property Details](https://github.com/rollymaduk/test-repo/issues/134)
+- [ ] [Save Favorite Properties](https://github.com/rollymaduk/test-repo/issues/135)
+- [ ] [Compare Properties](https://github.com/rollymaduk/test-repo/issues/136)
+
+
+
+
 ## Feature: App Theme Color Change Feature
 This feature allows users to customize the appearance of the app by changing the theme color, enhancing the visual experience and user satisfaction.
 
