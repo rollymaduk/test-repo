@@ -1,3 +1,17 @@
+## Feature: Item Search Feature
+This object defines the specifications for a feature that enables users to search for items on a web page using various filters and search criteria. It is designed to enhance user experience by providing quick and accurate search results.
+
+***Stories***
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/88)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/89)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/90)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/91)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/92)
+- [ ] [Acceptance Criteria](https://github.com/rollymaduk/test-repo/issues/93)
+
+
+
+
 ## Feature: User Auto-Logout Feature
 This JSON object specifies the requirements for a feature to automatically log out users after a period of inactivity. The feature aims to enhance security by preventing unauthorized access to user sessions that may have been inadvertently left active.
 
