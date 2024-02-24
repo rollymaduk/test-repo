@@ -1,3 +1,15 @@
+## Feature: Email Notification Feature
+This feature enables the system to send emails to users who are part of a certain group. It's designed to notify users of relevant information or actions they need to take, improving communication and engagement.
+
+***Stories***
+- [ ] [Email Configuration](https://github.com/rollymaduk/test-repo/issues/107)
+- [ ] [Group Email Composition](https://github.com/rollymaduk/test-repo/issues/108)
+- [ ] [Email Sending](https://github.com/rollymaduk/test-repo/issues/109)
+- [ ] [Email Status Tracking](https://github.com/rollymaduk/test-repo/issues/110)
+
+
+
+
 ## Feature: Property Search and Listing Feature
 An advanced property searching functionality enabling users to efficiently find properties based on various filters, such as location, price, and property type. The feature supports listing properties with detailed descriptions, images, and contact information. Users can also save favorites and contact property agents directly through the platform.
 
