@@ -1,3 +1,15 @@
+## Feature: Property Search and Listing Feature
+An advanced property searching functionality enabling users to efficiently find properties based on various filters, such as location, price, and property type. The feature supports listing properties with detailed descriptions, images, and contact information. Users can also save favorites and contact property agents directly through the platform.
+
+***Stories***
+- [ ] [Story 1: Search by Location](https://github.com/rollymaduk/test-repo/issues/100)
+- [ ] [Story 2: Filter by Price Range](https://github.com/rollymaduk/test-repo/issues/101)
+- [ ] [Story 3: Property Details](https://github.com/rollymaduk/test-repo/issues/102)
+- [ ] [Story 4: Save Favorites](https://github.com/rollymaduk/test-repo/issues/103)
+
+
+
+
 ## Feature: Item Search Feature
 This object defines the specifications for a feature that enables users to search for items on a web page using various filters and search criteria. It is designed to enhance user experience by providing quick and accurate search results.
 
