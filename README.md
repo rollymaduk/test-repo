@@ -1,3 +1,15 @@
+## Feature: User Logout Tracking Feature
+This feature handles the detection and recording of user logout events. It ensures that user sessions are properly closed and that logout occurrences are logged for security and user behavior analytics.
+
+***Stories***
+- [ ] [Story 1: Initiate Logout](https://github.com/rollymaduk/test-repo/issues/64)
+- [ ] [Story 2: Confirm Logout](https://github.com/rollymaduk/test-repo/issues/65)
+- [ ] [Story 3: Logout Audit Logging](https://github.com/rollymaduk/test-repo/issues/66)
+- [ ] [Story 4: Unattended Logout](https://github.com/rollymaduk/test-repo/issues/67)
+
+
+
+
 ## Feature: User Login Tracking Feature
 This feature captures and analyzes user login activities, providing insights into user engagement and security. It records login timestamps, methods, success/failures, geolocation, and device information.
 
